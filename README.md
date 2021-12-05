@@ -10,4 +10,4 @@ Link To APK:
 
 # Demo for News Based on Location And News Opening in Webview
 
-# Demo for Turning for showing ads using Firebase Remote Config
+# Demo for Turning off showing ads using Firebase Remote Config
